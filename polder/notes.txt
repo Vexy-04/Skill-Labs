@@ -1,0 +1,19 @@
+-> Create a container class
+
+-> Create 5 rows inside that
+
+-> For 1st row - 3,3,3,3
+-> 2nd - 2,8,2
+-> 3rd - 4,6,2
+-> 4th - 3,4,5
+-> 5th - 2,2,2,2,2
+
+
+Bootstap Components :-
+1.Buttons -
+-> Bootstap Provides Beautiful, Attractive and unique styles of button.
+-> Buttons are Created with .btn class 
+
+2.Card -
+-> Border Box with some padding around it's contents.
+-> It includes headers, footers, contents, colours, etc.
